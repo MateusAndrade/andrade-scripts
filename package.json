@@ -1,0 +1,27 @@
+{
+  "name": "andrade-scripts",
+  "version": "1.0.0",
+  "description": "A simple and useless script 🚀🔝😂",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusAndrade/andrade-scripts.git"
+  },
+  "keywords": [
+    "script",
+    "node",
+    "useless"
+  ],
+  "author": "Mateus Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusAndrade/andrade-scripts/issues"
+  },
+  "homepage": "https://github.com/MateusAndrade/andrade-scripts#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
